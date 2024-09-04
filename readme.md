@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6f80d605-d3de-4ee2-9b2d-5c14808ae545)**Hello this is my workshop project for my learning of java jsp-servlet with MVC2.**
+**Hello this is my workshop project for my learning of java jsp-servlet with MVC2.**
 **I hope my project will helpful for you!**
 
 **The database structure**
